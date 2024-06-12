@@ -38,38 +38,12 @@ EasyWeather leverages the power of Bloc for state management and Go Router for n
 
 ![Product](https://res.cloudinary.com/dthljz11q/image/upload/v1702213495/easyweather/bcbwanssspw9rexw4orb.png)
 
-## Setup
 
-- Clone this repository
-
-  ```bash
-  https://github.com/tejasbadone/EasyWeather.git
-  ```
-
-- Migrate to root directory and install all the required dependencies by running
-
-  ```bash
-  flutter pub get
-  ```
-
-- Head to `lib/data/weather_api.dart`, update the `apiKey` with your OpenWeatherMap's API key.
-
-- Run project
-  ```bash
-   flutter run
-  ```
 
 ## Download
 
 Download apk - https://drive.google.com/file/d/1tHU8V0RqyIG0NqeRSxtDmFp4VJRMX6J-/view?usp=sharing
 
-## Contact
-
-- Tejas Badone <br> <br>
-  <a  href="https://www.linkedin.com/in/tejasbadone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejas.badone25@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  feel free to contact me!
 
 ## License
 
